@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>
+			Peta Kecamatan Gunung Mas
+		</title>
+		<!-- Leaflet -->
+		<link rel="stylesheet" href="src/js/leaflet/leaflet.css" />
+		<link rel="stylesheet" href="src/js/leaflet/leaflet.label.css" />
+		<script src="src/js/leaflet/leaflet.js"></script>
+		<script src="src/js/leaflet/leaflet.label.js"></script>
+
+		<script src="src/json/data-kecamatan.geojson"></script>
+		<style type="text/css">
+			#map { height:100vh; }
+			.legend { background : white; line-height : 1.5em}
+			.legend i { width : 5em; float : center }
+			.map-label { background : white }
+		</style>
+	</head>
+	<body>
+		<div id="map"></div>
+		<p>Sumber Data : Kabupaten Gunung Mas Dalam Angka 2020 - BPS Kabupaten Gunung Mas</>
+	</body>
+</html>
+<script src="src/js/fungsi-layer.js"></script>
