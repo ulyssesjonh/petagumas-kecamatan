@@ -1,5 +1,5 @@
 # Peta Tematik Kabupaten Gunung Mas
-Peta Tematik Kabupaten Gunung Mas Berdasarkan Kecamatan yang menyertakan ibukota kecamatan, luas wilayah dan jumlah desa.
+Peta Tematik Kabupaten Gunung Mas Berdasarkan Kecamatan yang menyertakan data ibukota kecamatan, luas wilayah dan jumlah desa.
 # Kabupaten Gunung Mas
 Kabupaten Gunung Mas adalah salah satu kabupaten di provinsi Kalimantan Tengah, Indonesia. Kabupaten ini merupakan hasil pemekaran dari Kabupaten Kapuas provinsi Kalimantan Tengah berdasarkan UU Nomor 5 tahun 2002. Ibu kota kabupaten ini terletak di Kuala Kurun. Terdiri atas 12 Kecamatan, 13 Kelurahan, dan 114 Desa.
 # Platform System
