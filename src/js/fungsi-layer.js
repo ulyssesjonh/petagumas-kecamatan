@@ -122,7 +122,7 @@
 					fillColor : getKecamatanColor(feature.properties.Kecamatan),
 					weight : 2,
 					opacity : 1,
-					color : 'black',
+					color : 'white',
 					dashArray : 3,
 					fillOpacity : 0.7,
 				}
